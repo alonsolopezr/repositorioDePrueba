@@ -1,0 +1,15 @@
+/Users/aloncello/code/dotNET/metDeLaProg/UII/proyectosCSharp/repositorioDePrueba/RepositorioDePrueba/RepositorioDePrueba/bin/Debug/net5.0/RepositorioDePrueba.deps.json
+/Users/aloncello/code/dotNET/metDeLaProg/UII/proyectosCSharp/repositorioDePrueba/RepositorioDePrueba/RepositorioDePrueba/bin/Debug/net5.0/RepositorioDePrueba.runtimeconfig.json
+/Users/aloncello/code/dotNET/metDeLaProg/UII/proyectosCSharp/repositorioDePrueba/RepositorioDePrueba/RepositorioDePrueba/bin/Debug/net5.0/RepositorioDePrueba.runtimeconfig.dev.json
+/Users/aloncello/code/dotNET/metDeLaProg/UII/proyectosCSharp/repositorioDePrueba/RepositorioDePrueba/RepositorioDePrueba/bin/Debug/net5.0/RepositorioDePrueba.dll
+/Users/aloncello/code/dotNET/metDeLaProg/UII/proyectosCSharp/repositorioDePrueba/RepositorioDePrueba/RepositorioDePrueba/bin/Debug/net5.0/ref/RepositorioDePrueba.dll
+/Users/aloncello/code/dotNET/metDeLaProg/UII/proyectosCSharp/repositorioDePrueba/RepositorioDePrueba/RepositorioDePrueba/bin/Debug/net5.0/RepositorioDePrueba.pdb
+/Users/aloncello/code/dotNET/metDeLaProg/UII/proyectosCSharp/repositorioDePrueba/RepositorioDePrueba/RepositorioDePrueba/obj/Debug/net5.0/RepositorioDePrueba.csproj.AssemblyReference.cache
+/Users/aloncello/code/dotNET/metDeLaProg/UII/proyectosCSharp/repositorioDePrueba/RepositorioDePrueba/RepositorioDePrueba/obj/Debug/net5.0/RepositorioDePrueba.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aloncello/code/dotNET/metDeLaProg/UII/proyectosCSharp/repositorioDePrueba/RepositorioDePrueba/RepositorioDePrueba/obj/Debug/net5.0/RepositorioDePrueba.AssemblyInfoInputs.cache
+/Users/aloncello/code/dotNET/metDeLaProg/UII/proyectosCSharp/repositorioDePrueba/RepositorioDePrueba/RepositorioDePrueba/obj/Debug/net5.0/RepositorioDePrueba.AssemblyInfo.cs
+/Users/aloncello/code/dotNET/metDeLaProg/UII/proyectosCSharp/repositorioDePrueba/RepositorioDePrueba/RepositorioDePrueba/obj/Debug/net5.0/RepositorioDePrueba.csproj.CoreCompileInputs.cache
+/Users/aloncello/code/dotNET/metDeLaProg/UII/proyectosCSharp/repositorioDePrueba/RepositorioDePrueba/RepositorioDePrueba/obj/Debug/net5.0/RepositorioDePrueba.dll
+/Users/aloncello/code/dotNET/metDeLaProg/UII/proyectosCSharp/repositorioDePrueba/RepositorioDePrueba/RepositorioDePrueba/obj/Debug/net5.0/ref/RepositorioDePrueba.dll
+/Users/aloncello/code/dotNET/metDeLaProg/UII/proyectosCSharp/repositorioDePrueba/RepositorioDePrueba/RepositorioDePrueba/obj/Debug/net5.0/RepositorioDePrueba.pdb
+/Users/aloncello/code/dotNET/metDeLaProg/UII/proyectosCSharp/repositorioDePrueba/RepositorioDePrueba/RepositorioDePrueba/obj/Debug/net5.0/RepositorioDePrueba.genruntimeconfig.cache
