@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6EC8ABD0-3EC9-411F-B785-4E449774F340}|Default">
+  <MonoDevelop.Ide.ItemProperties.RepositorioDePrueba FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RepositorioDePrueba/Program.cs">
+    <Files>
+      <File FileName="RepositorioDePrueba/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RepositorioDePrueba" expanded="True">
+            <Node name="RepositorioDePrueba" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
